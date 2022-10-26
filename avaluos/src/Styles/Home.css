@@ -1,0 +1,29 @@
+.home {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #0F3D3E;
+}
+
+.card {
+  max-width: 500px;
+  max-height: 500px;
+  padding: 50px 50px;
+  border-radius: 10px;
+  border: 1px solid #0F3D3E;
+  background-color: white;
+  overflow-y: auto;
+}
+
+.form-section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #100F0F;
+}
+
+button {
+  font-family: 'Nunito';  
+}

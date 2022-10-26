@@ -1,0 +1,11 @@
+.detail {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-detail {
+  border: 1px solid #0F3D3E;
+  max-width: 80%;
+  padding: 0px 20px 20px;
+}
